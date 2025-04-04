@@ -66,7 +66,7 @@ Response (Current Placeholder):
 
 Pending Integration: Google Cloud Translation API
 
-We plan to integrate Google Cloud Translation API to provide real-time, accurate translations. However, this integration requires a Google Cloud Premium account, which is currently unavailable due to payment issues.
+I plan to integrate Google Cloud Translation API to provide real-time, accurate translations. However, this integration requires a Google Cloud Premium account, which is currently unavailable due to payment issues.
 
 Next Steps
 
